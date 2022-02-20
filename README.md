@@ -1,2 +1,2 @@
-# myKali_Config_mirror
-Mirror of my Kali Linux Configuration setup script
+# my_Kali_Config
+My setup of tools + config for Kali OS
